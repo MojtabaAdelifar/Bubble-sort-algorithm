@@ -10,6 +10,7 @@ def bubbleSort(array):
 
     return array
 
+# implementation of bubble sort
 my_array = [-1, -3, 0 ,10, 5, 7]
 
 print("Unsorted array:", end=' ')
